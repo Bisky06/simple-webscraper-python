@@ -22,3 +22,5 @@ server = http.createServer(listener);
 server.listen(100);
 
 console.log('Server running at "web ip adress"');
+
+// go to image directory in the terminal and use command : python -m http.server
